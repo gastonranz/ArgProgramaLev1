@@ -1,3 +1,7 @@
 This is a beautiful text!
 This is a second line!
+<<<<<<< HEAD
 Hi sweetheart!
+=======
+This is a third line!
+>>>>>>> 22ed094f93d56283414551e97ca4cee363e79f0b
